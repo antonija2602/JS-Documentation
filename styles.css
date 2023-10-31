@@ -9,12 +9,10 @@ body {
     scroll-behavior: smooth;
 }
 
-header {
+h1 {
     color: black;
     margin: 30px;
     text-align: left;
-    font-size: 1.8em;
-    font-weight: thin;
 }
 
 #navbar {
@@ -65,10 +63,10 @@ header {
     margin-right: 30px;
     padding-bottom: 50px;
 }
-.main-section header {
+.main-section h1 {
     height: 35px;
     padding-top: 20px;
-    margin-left: -20px;
+    margin-left: 0px;
 }
 
 .main-section li {
